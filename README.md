@@ -45,3 +45,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 Inspiration, code snippets, etc.
 * Games2day - Originally released his own version of this in python and allowed me to make a rewrite.
+* Whatlify - Originally Creator of This Tool.

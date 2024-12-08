@@ -11,14 +11,12 @@ Lunar Client doesn't check whether or not your Microsoft Account is valid or eve
 
 ### Dependencies
 * Colorama
-* PyInstaller (For Build)
 * Windows 10-11 or any windows version compatible with .NET Framework 4.7.2
 * .NET Framework 4.7.2 (it's installed by default)
 * A brain
 
 ### Building it (For Dumbs)
-* Open a terminal in vs code and type "pyinstaller --onefile main.py", as shown in the image
-![Image](/media/how2build.png)
+* Just run "python main.py" on some terminal 
 
 ### Using It
 
